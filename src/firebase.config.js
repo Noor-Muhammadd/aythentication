@@ -1,11 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyD8fJUTeucdOQ38mj4xAJczmHvlBYpUQJk",
-    authDomain: "travel-guru-748bc.firebaseapp.com",
-    databaseURL: "https://travel-guru-748bc.firebaseio.com",
-    projectId: "travel-guru-748bc",
-    storageBucket: "travel-guru-748bc.appspot.com",
-    messagingSenderId: "686923706110",
-    appId: "1:686923706110:web:1b2b32b40658b23b193faf"
+    apiKey: "AIzaSyA2opy1QTuNTUSZ5B8aq81AHk4cMJIxaH4",
+    authDomain: "autrh-9f4b1.firebaseapp.com",
+    projectId: "autrh-9f4b1",
+    storageBucket: "autrh-9f4b1.appspot.com",
+    messagingSenderId: "672527471879",
+    appId: "1:672527471879:web:a68b65b19bf43f8f2b61a2"
   };
 
   export default firebaseConfig;
